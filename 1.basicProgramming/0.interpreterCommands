@@ -1,0 +1,47 @@
+$python
+    -- invokes the interpreter
+>>>quit()
+    -- exits from the interpreter
+>>> help
+    -- gets help
+
+# at the start of the line denotes single line comment
+# arithmatic operations
+>>> 2 + 2
+4
+>>> 50 - 5*6
+20
+>>> (50 - 5*6) / 4
+5.0
+>>> 8 / 5  # division always returns a floating point number
+1.6
+>>> 17 // 3  # floor division discards the fractional part
+5
+>>> 17 % 3  # the % operator returns the remainder of the division
+2
+>>> 5 * 3 + 2  # result * divisor + remainder
+17
+>>> 5 ** 2  # 5 squared
+25
+
+# simple variable declaration
+>>> width = 20
+>>> height = 5 * 9
+>>> width * height
+900
+
+# accessing the result of last operation with "_"
+>>> tax = 12.5 / 100
+>>> price = 100.50
+>>> price * tax
+12.5625
+>>> price + _
+113.0625
+>>> round(_, 2)
+113.06
+
+# simple printing
+>>> print("simple printing")
+simple printing
+
+
