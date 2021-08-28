@@ -4,6 +4,10 @@
 
 {% embed url="https://github.com/sushen/coronavirus" caption="What to be a socal coder?" %}
 
+{% embed url="https://github.com/sushen/Formalin" caption="What to build something with Ai power?" %}
+
+
+
 
 
 
