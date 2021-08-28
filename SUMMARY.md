@@ -10,4 +10,5 @@
 * [Code with mobile](code-with-mobile.md)
 * [Join My team](join-my-team.md)
 * [Our Socal Link](our-socal-link.md)
+* [Learning Path](learning-path.md)
 
