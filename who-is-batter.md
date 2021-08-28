@@ -16,6 +16,14 @@
 
 {% embed url="https://www.linkedin.com/learning/learning-python/" caption="Linkedin Learning Python Course" %}
 
+{% embed url="https://www.freecodecamp.org/donate/" caption="Everything Free" %}
+
+{% embed url="https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ" caption="Youtube Channel" %}
+
+
+
+
+
 
 
 
