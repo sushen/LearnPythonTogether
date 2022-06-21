@@ -6,4 +6,4 @@
 
 [সহজ ভাষায় পাইথন ৩](https://python.maateen.me/)
 
-[https://python.maateen.me/](https://python.maateen.me/)
+{% embed url="https://python.maateen.me/" %}
