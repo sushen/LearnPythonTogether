@@ -4,6 +4,6 @@
 
 {% embed url="http://hukush-pakush.com/" %}
 
-### [সহজ ভাষায় পাইথন ৩](https://python.maateen.me/)
+[সহজ ভাষায় পাইথন ৩](https://python.maateen.me/)
 
 [https://python.maateen.me/](https://python.maateen.me/)
