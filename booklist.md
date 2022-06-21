@@ -2,7 +2,8 @@
 
 হাকুষ পাকুষের প্রগ্রমিং শিক্ষা
 
- [http://hukush-pakush.com/](http://hukush-pakush.com/) 
+{% embed url="http://hukush-pakush.com/" %}
 
+### [সহজ ভাষায় পাইথন ৩](https://python.maateen.me/)
 
-
+[https://python.maateen.me/](https://python.maateen.me/)
