@@ -1,6 +1,12 @@
 # Our Bangla Book
 
-{% embed url="https://lpt.gitbook.io/lpt/" caption="একসাথে পাইথন শিখি" %}
+Abstraction .
+
+Compositing.
 
 
+
+{% embed url="https://lpt.gitbook.io/lpt/" %}
+একসাথে পাইথন শিখি
+{% endembed %}
 
