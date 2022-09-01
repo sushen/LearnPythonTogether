@@ -1,17 +1,6 @@
 # Our Bangla Book
 
-1. Abstraction&#x20;
-2. Compositing
-3. functional Abstraction
-4. functional compositing
-5. Class Abstraction
-6. Class compositing
-7. refactoring
-8. patteran
+{% embed url="https://lpt.gitbook.io/lpt/" caption="একসাথে পাইথন শিখি" %}
 
 
-
-{% embed url="https://lpt.gitbook.io/lpt/" %}
-একসাথে পাইথন শিখি
-{% endembed %}
 
